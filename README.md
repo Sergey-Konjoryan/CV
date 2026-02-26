@@ -17,7 +17,7 @@ Welcome to my profile! I am a 18-year-old security researcher focused on offensi
 
 #### 🔴 Offensive & Infrastructure
 * **Network Discovery:** Nmap, Responder, Bettercap.
-* **Pivoting & Tunneling:** **Ligolo-ng**, Chisel, SSH Port Forwarding.
+* **Pivoting & Tunneling:** Ligolo-ng, Chisel, SSH Port Forwarding.
 * **Exploitation:** Impacket Suite (psexec, wmiexec), Metasploit Framework.
 * **Post-Exploit:** Mimikatz, LinPEAS/WinPEAS.
 
