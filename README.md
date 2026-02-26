@@ -32,7 +32,7 @@ Welcome to my profile! I am a 18-year-old security researcher focused on offensi
 * **VulnHub:** Successfully compromised 10+ machines including:
   * *Kioptrix Series*
   * *Tr0ll Series*
-  * *Metasploitable 2*    
+  * *Raven Series*    
 ---
 
 ### 📊 Stats & Goals
